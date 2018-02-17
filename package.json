@@ -1,9 +1,9 @@
 {
-  "name": "refrax",
-  "productName": "Refrax",
+  "name": "engine",
+  "productName": "Engine",
   "version": "0.0.1",
   "private": true,
-  "description": "Light snake game",
+  "description": "Game engine",
   "author": "Lloyd Kranzky <lloyd@kranzky.com>",
   "scripts": {
     "clean": "node build/script.clean.js",
